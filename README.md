@@ -18,7 +18,7 @@
 - **SPROUT**: AI for sustainable agriculture – [Project Details](https://lablab.ai/event/truera-challenge-build-llm-applications/four-score/sprout)
 
 ## Achievements
-- **Security AI Challenge Winner** [Secured by Securiti](https://www.linkedin.com/posts/securiti-pakistan_aichallenge2024-generativeai-teamaera-activity-7282998715944964096-XrcG/)
+- **Security AI Challenge Winner** [Hosted by Securiti AI](https://www.linkedin.com/posts/securiti-pakistan_aichallenge2024-generativeai-teamaera-activity-7280549168316641281-QtLD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYNp9cBYnSPadhp9Jc65xdCtPTYT-WD9WA)
 - **Published Developer**: [dcpe-js NPM package](https://www.npmjs.com/package/dcpe-js)
 
 ## Let's Connect
