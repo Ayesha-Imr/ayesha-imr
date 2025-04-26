@@ -15,7 +15,7 @@
 ## Projects
 - **BYTE**: [AI Nutrition App](http://byte-nutrition.com) | [Cohere Hackathon Winner](https://lablab.ai/event/cohere-coral-hackathon/byte/byte-ai-based-nutrition-app) | [Google Solutions Challenge Finalist](https://developers.google.com/community/gdsc-solution-challenge/winners)
 - **Confidential Copilot (CC)**: Building secure GenAI solutions using [DCPE encryption](https://github.com/Ayesha-Imr/DCPE-)
-- **SHIFT**: AI-Powered browser extension to help online shoppers make more sustainable choices – [Extension]([https://lablab.ai/event/truera-challenge-build-llm-applications/four-score/sprout](https://chromewebstore.google.com/detail/shift/bpplgnhmfcoohmeppibphjoahlfaebhj?pli=1))
+- **SHIFT**: AI-Powered browser extension to help online shoppers make more sustainable choices – [Extension](https://chromewebstore.google.com/detail/shift/bpplgnhmfcoohmeppibphjoahlfaebhj?pli=1)
 
 ## Achievements
 - **Security AI Challenge Winner** [Hosted by Securiti AI](https://www.linkedin.com/posts/securiti-pakistan_aichallenge2024-generativeai-teamaera-activity-7280549168316641281-QtLD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYNp9cBYnSPadhp9Jc65xdCtPTYT-WD9WA)
