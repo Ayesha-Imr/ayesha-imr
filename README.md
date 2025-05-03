@@ -4,7 +4,7 @@
 
 - 🎓 **B.E. Software Engineering**, NED University
 - 🛡️ Focused on **Security by Design**, **Zero-Trust Principles**, **Searchable Encryption** and **Generative AI**.
-- 🤖 Experienced in **RAG Systems**, **LLM Fine-Tuning**, **Generative AI Agents**, and **ML/DL Models**.
+- 🤖 Experienced in **Full-Stack Development**, **RAG Systems**, **LLM Fine-Tuning**, **Generative AI Agents**, and **ML/DL Models**.
 - 🚀 Currently Co-founder at **BYTE** – AI-powered personalized nutrition app.
 - 🔒 Building **Confidential Copilot** – GenAI platform with end-to-end data security.
 
