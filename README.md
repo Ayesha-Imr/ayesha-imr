@@ -1,6 +1,6 @@
 # Hi there, I'm Ayesha Imran!
 
-**Software Engineering undergrad** passionate about AI, cybersecurity, and building secure, scalable tech solutions. I love working at the intersection of **Generative AI**, **Machine Learning**, and **Secure Systems**.
+Early-career **Software Engineer** passionate about AI, cybersecurity, and building secure, scalable tech solutions. I love working at the intersection of **Generative AI**, **Machine Learning**, and **Secure Systems**.
 
 - 🎓 **B.E. Software Engineering**, NED University
 - 🛡️ Focused on **Security by Design**, **Zero-Trust Principles**, **Searchable Encryption** and **Generative AI**.
