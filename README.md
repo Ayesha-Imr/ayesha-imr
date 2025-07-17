@@ -1,12 +1,12 @@
 # Hi there, I'm Ayesha Imran!
 
-Early-career **Software Engineer** passionate about AI, cybersecurity, and building secure, scalable tech solutions. I love working at the intersection of **Generative AI**, **Machine Learning**, and **Secure Systems**.
+Early-career **Software Engineer** deeply involved in Generative AI, LLMs, NLP and AI Research. Experienced in building secure, scalable full-stack tech solutions. 
 
 - 🎓 **B.E. Software Engineering**, NED University
 - 🛡️ Focused on **Security by Design**, **Zero-Trust Principles**, **Searchable Encryption** and **Generative AI**.
-- 🤖 Experienced in **Full-Stack Development**, **RAG Systems**, **LLM Fine-Tuning**, **Generative AI Agents**, and **ML/DL Models**.
+- 🤖 Experienced in **Full-Stack Development**, **RAG Systems**, **LLM Fine-Tuning**, **Generative AI Agents**, and **NLP**.
 - 🚀 Currently Co-founder at **BYTE** – AI-powered personalized nutrition app.
-- 🔒 Building **Confidential Copilot** – GenAI platform with end-to-end data security.
+- 🔒 Built **Confidential Copilot** – GenAI platform with end-to-end data security.
 
 ## Skills
 `Python` `JavaScript` `TypeScript` `Flutter` `React.js` `Node.js` `AWS` `Docker` `Kubernetes`  
@@ -22,4 +22,4 @@ Early-career **Software Engineer** passionate about AI, cybersecurity, and build
 - **Published Developer**: [dcpe-js NPM package](https://www.npmjs.com/package/dcpe-js)
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ayesha-imran-a9b859213/) | [GitHub](https://github.com/ayesha-Imr)
+[LinkedIn](https://www.linkedin.com/in/ayesha-imran-a9b859213/) | [GitHub](https://github.com/ayesha-Imr) | [X](https://x.com/ayesha_imr)
